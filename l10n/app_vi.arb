@@ -1,0 +1,89 @@
+{
+  "@@locale": "vi",
+
+  "appName": "Prep Chinese Vocab",
+
+  "tabHome": "HSK",
+  "tabSearch": "Tra c\u1EE9u",
+  "tabScan": "Qu\u00E9t",
+  "tabFolders": "Th\u01B0 m\u1EE5c",
+  "tabProfile": "C\u00E1 nh\u00E2n",
+
+  "loginTitle": "Ch\u00E0o m\u1EEBng",
+  "loginSubtitle": "\u0110\u0103ng nh\u1EADp b\u1EB1ng t\u00E0i kho\u1EA3n Prep",
+  "loginButton": "\u0110\u0103ng nh\u1EADp",
+  "logoutButton": "\u0110\u0103ng xu\u1EA5t",
+
+  "onboardingTitle": "Ch\u00E0o m\u1EEBng \u0111\u1EBFn Prep Chinese Vocab!",
+  "onboardingSelectLevel": "Ch\u1ECDn tr\u00ECnh \u0111\u1ED9 HSK c\u1EE7a b\u1EA1n",
+  "onboardingContinue": "Ti\u1EBFp t\u1EE5c",
+
+  "profileTitle": "Th\u00F4ng tin c\u00E1 nh\u00E2n",
+
+  "hskLevelTitle": "HSK {level}",
+  "hskLevelSubtitle": "{count} t\u1EEB v\u1EF1ng",
+
+  "vocabularyDetail": "Chi ti\u1EBFt t\u1EEB v\u1EF1ng",
+  "vocabularyCreate": "Th\u00EAm t\u1EEB v\u1EF1ng",
+  "vocabularyEdit": "S\u1EEDa t\u1EEB v\u1EF1ng",
+  "vocabularyDelete": "X\u00F3a t\u1EEB v\u1EF1ng",
+  "vocabularyDeleteConfirm": "B\u1EA1n c\u00F3 ch\u1EAFc mu\u1ED1n x\u00F3a t\u1EEB v\u1EF1ng n\u00E0y?",
+
+  "searchHint": "T\u00ECm H\u00E1n t\u1EF1, pinyin, ho\u1EB7c ngh\u0129a...",
+  "searchEmpty": "Kh\u00F4ng t\u00ECm th\u1EA5y k\u1EBFt qu\u1EA3",
+
+  "folderTitle": "Th\u01B0 m\u1EE5c c\u1EE7a t\u00F4i",
+  "folderCreate": "T\u1EA1o th\u01B0 m\u1EE5c m\u1EDBi",
+  "folderEdit": "S\u1EEDa th\u01B0 m\u1EE5c",
+  "folderDelete": "X\u00F3a th\u01B0 m\u1EE5c",
+  "folderDeleteConfirm": "B\u1EA1n c\u00F3 ch\u1EAFc mu\u1ED1n x\u00F3a th\u01B0 m\u1EE5c n\u00E0y?",
+  "folderEmpty": "Ch\u01B0a c\u00F3 th\u01B0 m\u1EE5c n\u00E0o",
+  "folderAddVocabulary": "Th\u00EAm v\u00E0o th\u01B0 m\u1EE5c",
+  "folderNameHint": "T\u00EAn th\u01B0 m\u1EE5c",
+  "folderDescriptionHint": "M\u00F4 t\u1EA3 (tu\u1EF3 ch\u1ECDn)",
+
+  "ocrScanTitle": "Qu\u00E9t OCR",
+  "ocrTakePhoto": "Ch\u1EE5p \u1EA3nh",
+  "ocrFromGallery": "Ch\u1ECDn t\u1EEB th\u01B0 vi\u1EC7n",
+  "ocrScanning": "\u0110ang qu\u00E9t...",
+  "ocrPreviewTitle": "K\u1EBFt qu\u1EA3 qu\u00E9t",
+  "ocrNewItems": "T\u1EEB m\u1EDBi",
+  "ocrExistingItems": "\u0110\u00E3 l\u01B0u",
+  "ocrLowConfidence": "C\u1EA7n ki\u1EC3m tra",
+  "ocrConfirmTitle": "X\u00E1c nh\u1EADn nh\u1EADp",
+  "ocrConfirmButton": "L\u01B0u {count} t\u1EEB",
+
+  "entitlementFree": "Mi\u1EC5n ph\u00ED",
+  "entitlementPro": "Pro",
+  "entitlementUpgrade": "N\u00E2ng c\u1EA5p l\u00EAn Pro",
+  "entitlementQuotaRemaining": "C\u00F2n {remaining}/{limit} h\u00F4m nay",
+  "entitlementQuotaExceeded": "\u0110\u00E3 h\u1EBFt l\u01B0\u1EE3t h\u00F4m nay",
+  "entitlementFeatureLocked": "T\u00EDnh n\u0103ng Pro",
+  "entitlementResetsAt": "L\u00E0m m\u1EDBi l\u00FAc {time}",
+
+  "topicsTitle": "Ch\u1EE7 \u0111\u1EC1",
+  "grammarTitle": "Ng\u1EEF ph\u00E1p",
+
+  "fieldHanzi": "H\u00E1n t\u1EF1",
+  "fieldPinyin": "Pinyin",
+  "fieldMeaningVi": "Ngh\u0129a (Ti\u1EBFng Vi\u1EC7t)",
+  "fieldMeaningEn": "Ngh\u0129a (Ti\u1EBFng Anh)",
+  "fieldHskLevel": "C\u1EA5p \u0111\u1ED9 HSK",
+  "fieldAudioUrl": "\u0110\u01B0\u1EDDng d\u1EABn audio",
+
+  "errorGeneric": "\u0110\u00E3 c\u00F3 l\u1ED7i x\u1EA3y ra",
+  "errorNetwork": "Kh\u00F4ng c\u00F3 k\u1EBFt n\u1ED1i internet",
+  "errorServiceUnavailable": "D\u1ECBch v\u1EE5 t\u1EA1m kh\u00F4ng kh\u1EA3 d\u1EE5ng. Vui l\u00F2ng th\u1EED l\u1EA1i sau.",
+  "errorUnauthorized": "Phi\u00EAn \u0111\u00E3 h\u1EBFt h\u1EA1n. Vui l\u00F2ng \u0111\u0103ng nh\u1EADp l\u1EA1i.",
+
+  "actionRetry": "Th\u1EED l\u1EA1i",
+  "actionCancel": "H\u1EE7y",
+  "actionSave": "L\u01B0u",
+  "actionDelete": "X\u00F3a",
+  "actionConfirm": "X\u00E1c nh\u1EADn",
+
+  "emptyVocabulary": "Ch\u01B0a c\u00F3 t\u1EEB v\u1EF1ng n\u00E0o",
+  "emptyFolder": "Th\u01B0 m\u1EE5c tr\u1ED1ng",
+
+  "offlineBanner": "B\u1EA1n \u0111ang ngo\u1EA1i tuy\u1EBFn. Hi\u1EC3n th\u1ECB d\u1EEF li\u1EC7u \u0111\u00E3 l\u01B0u."
+}

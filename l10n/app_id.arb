@@ -1,0 +1,89 @@
+{
+  "@@locale": "id",
+
+  "appName": "Prep Chinese Vocab",
+
+  "tabHome": "HSK",
+  "tabSearch": "Cari",
+  "tabScan": "Pindai",
+  "tabFolders": "Folder",
+  "tabProfile": "Profil",
+
+  "loginTitle": "Selamat Datang",
+  "loginSubtitle": "Masuk dengan akun Prep",
+  "loginButton": "Masuk",
+  "logoutButton": "Keluar",
+
+  "onboardingTitle": "Selamat datang di Prep Chinese Vocab!",
+  "onboardingSelectLevel": "Pilih level HSK Anda",
+  "onboardingContinue": "Lanjutkan",
+
+  "profileTitle": "Profil",
+
+  "hskLevelTitle": "HSK {level}",
+  "hskLevelSubtitle": "{count} kosakata",
+
+  "vocabularyDetail": "Detail Kosakata",
+  "vocabularyCreate": "Tambah Kosakata",
+  "vocabularyEdit": "Edit Kosakata",
+  "vocabularyDelete": "Hapus Kosakata",
+  "vocabularyDeleteConfirm": "Apakah Anda yakin ingin menghapus kosakata ini?",
+
+  "searchHint": "Cari hanzi, pinyin, atau arti...",
+  "searchEmpty": "Tidak ada hasil",
+
+  "folderTitle": "Folder Saya",
+  "folderCreate": "Folder Baru",
+  "folderEdit": "Edit Folder",
+  "folderDelete": "Hapus Folder",
+  "folderDeleteConfirm": "Apakah Anda yakin ingin menghapus folder ini?",
+  "folderEmpty": "Belum ada folder",
+  "folderAddVocabulary": "Tambah ke Folder",
+  "folderNameHint": "Nama folder",
+  "folderDescriptionHint": "Deskripsi (opsional)",
+
+  "ocrScanTitle": "Pindai OCR",
+  "ocrTakePhoto": "Ambil Foto",
+  "ocrFromGallery": "Dari Galeri",
+  "ocrScanning": "Memindai...",
+  "ocrPreviewTitle": "Hasil Pindai",
+  "ocrNewItems": "Kata Baru",
+  "ocrExistingItems": "Sudah Disimpan",
+  "ocrLowConfidence": "Perlu Ditinjau",
+  "ocrConfirmTitle": "Konfirmasi Impor",
+  "ocrConfirmButton": "Simpan {count} Kata",
+
+  "entitlementFree": "Gratis",
+  "entitlementPro": "Pro",
+  "entitlementUpgrade": "Upgrade ke Pro",
+  "entitlementQuotaRemaining": "Sisa {remaining}/{limit} hari ini",
+  "entitlementQuotaExceeded": "Kuota harian habis",
+  "entitlementFeatureLocked": "Fitur Pro",
+  "entitlementResetsAt": "Reset pada {time}",
+
+  "topicsTitle": "Topik",
+  "grammarTitle": "Tata Bahasa",
+
+  "fieldHanzi": "Hanzi",
+  "fieldPinyin": "Pinyin",
+  "fieldMeaningVi": "Arti (Vietnam)",
+  "fieldMeaningEn": "Arti (Inggris)",
+  "fieldHskLevel": "Level HSK",
+  "fieldAudioUrl": "URL Audio",
+
+  "errorGeneric": "Terjadi kesalahan",
+  "errorNetwork": "Tidak ada koneksi internet",
+  "errorServiceUnavailable": "Layanan tidak tersedia sementara. Silakan coba lagi nanti.",
+  "errorUnauthorized": "Sesi telah berakhir. Silakan masuk kembali.",
+
+  "actionRetry": "Coba Lagi",
+  "actionCancel": "Batal",
+  "actionSave": "Simpan",
+  "actionDelete": "Hapus",
+  "actionConfirm": "Konfirmasi",
+
+  "emptyVocabulary": "Belum ada kosakata",
+  "emptyFolder": "Folder kosong",
+
+  "offlineBanner": "Anda sedang offline. Menampilkan data cache."
+}

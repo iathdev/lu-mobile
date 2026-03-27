@@ -1,0 +1,115 @@
+{
+  "@@locale": "en",
+
+  "appName": "Prep Chinese Vocab",
+
+  "tabHome": "HSK",
+  "tabSearch": "Search",
+  "tabScan": "Scan",
+  "tabFolders": "Folders",
+  "tabProfile": "Profile",
+
+  "loginTitle": "Welcome",
+  "loginSubtitle": "Sign in with your Prep account",
+  "loginButton": "Sign In",
+  "logoutButton": "Log Out",
+
+  "onboardingTitle": "Welcome to Prep Chinese Vocab!",
+  "onboardingSelectLevel": "Select your HSK level",
+  "onboardingContinue": "Continue",
+
+  "profileTitle": "Profile",
+
+  "hskLevelTitle": "HSK {level}",
+  "@hskLevelTitle": {
+    "placeholders": {
+      "level": { "type": "int" }
+    }
+  },
+  "hskLevelSubtitle": "{count} words",
+  "@hskLevelSubtitle": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+
+  "vocabularyDetail": "Vocabulary Detail",
+  "vocabularyCreate": "Add Vocabulary",
+  "vocabularyEdit": "Edit Vocabulary",
+  "vocabularyDelete": "Delete Vocabulary",
+  "vocabularyDeleteConfirm": "Are you sure you want to delete this vocabulary?",
+
+  "searchHint": "Search hanzi, pinyin, or meaning...",
+  "searchEmpty": "No results found",
+
+  "folderTitle": "My Folders",
+  "folderCreate": "New Folder",
+  "folderEdit": "Edit Folder",
+  "folderDelete": "Delete Folder",
+  "folderDeleteConfirm": "Are you sure you want to delete this folder?",
+  "folderEmpty": "No folders yet",
+  "folderAddVocabulary": "Add to Folder",
+  "folderNameHint": "Folder name",
+  "folderDescriptionHint": "Description (optional)",
+
+  "ocrScanTitle": "OCR Scan",
+  "ocrTakePhoto": "Take Photo",
+  "ocrFromGallery": "From Gallery",
+  "ocrScanning": "Scanning...",
+  "ocrPreviewTitle": "Scan Results",
+  "ocrNewItems": "New Words",
+  "ocrExistingItems": "Already Saved",
+  "ocrLowConfidence": "Needs Review",
+  "ocrConfirmTitle": "Confirm Import",
+  "ocrConfirmButton": "Save {count} Words",
+  "@ocrConfirmButton": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+
+  "entitlementFree": "Free",
+  "entitlementPro": "Pro",
+  "entitlementUpgrade": "Upgrade to Pro",
+  "entitlementQuotaRemaining": "{remaining}/{limit} remaining today",
+  "@entitlementQuotaRemaining": {
+    "placeholders": {
+      "remaining": { "type": "int" },
+      "limit": { "type": "int" }
+    }
+  },
+  "entitlementQuotaExceeded": "Daily limit reached",
+  "entitlementFeatureLocked": "Pro feature",
+  "entitlementResetsAt": "Resets at {time}",
+  "@entitlementResetsAt": {
+    "placeholders": {
+      "time": { "type": "String" }
+    }
+  },
+
+  "topicsTitle": "Topics",
+  "grammarTitle": "Grammar",
+
+  "fieldHanzi": "Hanzi",
+  "fieldPinyin": "Pinyin",
+  "fieldMeaningVi": "Meaning (Vietnamese)",
+  "fieldMeaningEn": "Meaning (English)",
+  "fieldHskLevel": "HSK Level",
+  "fieldAudioUrl": "Audio URL",
+
+  "errorGeneric": "Something went wrong",
+  "errorNetwork": "No internet connection",
+  "errorServiceUnavailable": "Service is temporarily unavailable. Please try again later.",
+  "errorUnauthorized": "Session expired. Please sign in again.",
+
+  "actionRetry": "Retry",
+  "actionCancel": "Cancel",
+  "actionSave": "Save",
+  "actionDelete": "Delete",
+  "actionConfirm": "Confirm",
+
+  "emptyVocabulary": "No vocabulary yet",
+  "emptyFolder": "This folder is empty",
+
+  "offlineBanner": "You are offline. Showing cached data."
+}

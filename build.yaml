@@ -1,0 +1,11 @@
+targets:
+  $default:
+    builders:
+      drift_dev:
+        options:
+          generate_connect_constructor: true
+          scoped_dart_components: true
+      json_serializable:
+        options:
+          explicit_to_json: true
+          field_rename: snake
